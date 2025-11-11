@@ -62,7 +62,7 @@ Clases de matemáticas, física y herramientas técnicas (AutoCAD, Arena, Invent
 
 🔹 [Automatización de Reporterías (n8n)](https://github.com/EderZC7/reporteria-n8n)  
 
-🔹 [Proyecto Revils Textil – Mejora de OEE](./industrial-projects/revils_textil_oee)
+🔹 [Proyecto Revils Textil – Mejora de OEE](https://github.com/EderZC7/revils-textil-oee)
 
 🔹 [Talleres y Desafíos Prácticos (SQL, PBI, Python, Excel)](https://github.com/EderZC7/workshops-challenges)
 
