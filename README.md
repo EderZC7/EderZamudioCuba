@@ -9,30 +9,67 @@
 Soy un estudiante apasionado por los datos, la automatización y la mejora continua.  
 He participado en proyectos que combinan **análisis de datos, reportería automatizada y optimización de procesos operativos**, buscando aportar valor a través de soluciones basadas en información y tecnología.
 
+Mi enfoque está en la **eficiencia, la transformación digital y la innovación aplicada**, integrando herramientas como **Power BI, SQL, Python y n8n** para convertir datos en decisiones estratégicas.
+
+---
+
+## 🧩 Áreas de especialización
+- 📊 **Análisis y Ciencia de Datos** – Power BI, Excel, SQL, Python, Machine Learning  
+- ⚙️ **Automatización y Digitalización** – Power Automate, Make, n8n  
+- 🔄 **Gestión y Mejora de Procesos** – VSM, KPIs, BPMN (Bizagi)  
+- 💹 **Evaluación Financiera y Proyectos** – VAN, TIR, RBC, ROI  
+- 🔐 **Ciberseguridad aplicada** – Fundamentos de gestión de riesgos, seguridad de datos
+
 ---
 
 ## 💼 Experiencia destacada
-- **Profesor Particular (2022 – 2025)** — Clases y recursos digitales; +80% mejora promedio.  
-- **Score de Crédito Hipotecario** — Modelo predictivo, 79% accuracy.  
-- **Automatización de Reporterías (n8n)** — Flujos integrados para reportes y notificaciones.  
-- **Análisis Airbnb (Manhattan)** — Dashboards y estrategia de precios.  
-- **Revils Textil** — Mejora de OEE +13%.
+**Profesor Particular (2022 – 2025)**  
+Clases de matemáticas, física y herramientas técnicas (AutoCAD, Arena, Inventor).  
+✅ Implementé enseñanza remota y recursos digitales, mejorando rendimiento estudiantil en +80%.
+
+**Proyectos universitarios y personales**  
+- 🧠 *Score de Crédito Hipotecario*: Modelo predictivo con Árboles de Decisión (79% accuracy).  
+- 📊 *Airbnb – Manhattan Analysis*: Dashboard Power BI con insights de precios y estacionalidad.  
+- 🤖 *Automatización de Reporterías (n8n)*: Reducción de errores manuales y tiempos de entrega.  
+- 🏭 *Revils Textil*: Aumento del OEE en +13% y disponibilidad +19.5% mediante TPM.  
 
 ---
 
-## 🔧 Tecnologías
-Excel (Macros, VBA), Power BI, SQL, Python, n8n, Power Automate, Power Query, AutoCAD, Bizagi, Arena.
+## 🧠 Tecnologías y herramientas
+| Nivel | Herramientas |
+|-------|---------------|
+| **Avanzado** | Excel (Macros, VBA), Power BI |
+| **Intermedio** | SQL, Python, Power Automate, n8n, Power Query |
+| **Básico** | AutoCAD, Bizagi, Arena Simulation, SAP HANA |
 
 ---
 
-## 📂 Proyectos (repositorios / carpetas)
-- `data-projects/proyecto_credito_hipotecario` — Score de crédito hipotecario.  
-- `data-projects/airbnb_manhattan_analysis` — Análisis y dashboard Airbnb.  
-- `automation-projects/reporteria_n8n` — Flujos n8n para reportería.  
-- `industrial-projects/revils_textil_oee` — Mejora de procesos y OEE.  
-- `certifications/` — Listado y copias de certificados relevantes.
+## 📜 Certificaciones principales
+- Google Cybersecurity Certificate (Coursera, 2025)  
+- Machine Learning with Python (Coursera, 2025)  
+- Big Data (Campus Romero, 2025)  
+- MIT Professional Education – Transformación Digital (2024)  
+- Scrum Fundamentals Certified (2025)
+
+➡️ [Ver todas las certificaciones aquí](./certifications/Coursera_Certificates.md)
 
 ---
 
-## 📫 Contacto
-✉️ zamudiocuba@gmail.com | 📞 +51 940 081 874 | 🌐 [LinkedIn](https://linkedin.com/in/ederzamudiocuba)
+## 📈 Mis proyectos
+🔹 [Automatización de Reporterías (n8n)](./automation-projects/reporteria_n8n)  
+🔹 [Score de Crédito Hipotecario – Machine Learning](./data-projects/proyecto_credito_hipotecario)  
+🔹 [Análisis de Airbnb – Power BI](./data-projects/airbnb_manhattan_analysis)  
+🔹 [Proyecto Revils Textil – Mejora de OEE](./industrial-projects/revils_textil_oee)
+
+---
+
+## 🤝 Conecta conmigo
+📫 **Correo:** zamudiocuba@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/ederzamudiocuba](https://linkedin.com/in/ederzamudiocuba)  
+🌍 **Ubicación:** San Luis, Lima, Perú  
+
+---
+
+> 💬 “Convertir datos en decisiones y tecnología en eficiencia: mi objetivo es aportar valor real mediante la analítica y la innovación.”
+
+
