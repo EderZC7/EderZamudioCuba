@@ -57,8 +57,11 @@ Clases de matemáticas, física y herramientas técnicas (AutoCAD, Arena, Invent
 
 ## 📈 Mis proyectos
 🔹 [Score de Crédito Hipotecario – Machine Learning](https://github.com/EderZC7/score-credito-hipotecario)
+
 🔹 [Análisis de Airbnb – Power BI](https://github.com/EderZC7/airbnb-manhattan-analysis) 
+
 🔹 [Automatización de Reporterías (n8n)](https://github.com/EderZC7/reporteria-n8n)  
+
 🔹 [Proyecto Revils Textil – Mejora de OEE](./industrial-projects/revils_textil_oee)
 
 ---
