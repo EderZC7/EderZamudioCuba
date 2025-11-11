@@ -64,6 +64,8 @@ Clases de matemáticas, física y herramientas técnicas (AutoCAD, Arena, Invent
 
 🔹 [Proyecto Revils Textil – Mejora de OEE](./industrial-projects/revils_textil_oee)
 
+🔹 [Talleres y Desafíos Prácticos (SQL, PBI, Python, Excel)](https://github.com/EderZC7/workshops-challenges)
+
 ---
 
 ## 🤝 Conecta conmigo
