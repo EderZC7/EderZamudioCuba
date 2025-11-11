@@ -51,14 +51,14 @@ Clases de matemáticas, física y herramientas técnicas (AutoCAD, Arena, Invent
 - MIT Professional Education – Transformación Digital (2024)  
 - Scrum Fundamentals Certified (2025)
 
-➡️ [Ver todas las certificaciones aquí](./certifications/Coursera_Certificates.md)
+➡️ [Ver todas las certificaciones aquí](https://github.com/EderZC7/certifications)
 
 ---
 
 ## 📈 Mis proyectos
-🔹 [Automatización de Reporterías (n8n)](./automation-projects/reporteria_n8n)  
-🔹 [Score de Crédito Hipotecario – Machine Learning](./data-projects/proyecto_credito_hipotecario)  
-🔹 [Análisis de Airbnb – Power BI](./data-projects/airbnb_manhattan_analysis)  
+🔹 [Score de Crédito Hipotecario – Machine Learning](https://github.com/EderZC7/score-credito-hipotecario)
+🔹 [Análisis de Airbnb – Power BI](https://github.com/EderZC7/airbnb-manhattan-analysis) 
+🔹 [Automatización de Reporterías (n8n)](https://github.com/EderZC7/reporteria-n8n)  
 🔹 [Proyecto Revils Textil – Mejora de OEE](./industrial-projects/revils_textil_oee)
 
 ---
